@@ -1,1 +1,1 @@
-FROM langgenius/dify-web:latest
+FROM  openwebui/open-webui:latest
